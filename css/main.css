@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 50%;
+    margin: auto;
+}
+.block{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+
+}
+.black {
+    width: 50px;
+    height: 30px;
+    border: 1px solid red;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    
+
+
+}
+.block2{
+    display: flex;
+    justify-content: end;
+}
+
+
+
+
+
+
+
+
+
